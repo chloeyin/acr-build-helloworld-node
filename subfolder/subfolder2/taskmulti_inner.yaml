@@ -1,0 +1,4 @@
+version: v1.0.0
+steps:
+# Build target image
+- build: https://github.com/chloeyin/acr-build-helloworld-node.git
